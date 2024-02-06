@@ -1,6 +1,6 @@
-import logo from './assets/logo-nlw-experts.svg'
-import { DotBackgroundLayout } from './components/ui/dot-background-layout'
-import { Spotlight } from './components/ui/spotlight'
+import logo from '@/assets/logo-nlw-experts.svg'
+import { DotBackgroundLayout } from '@/components/ui/dot-background-layout'
+import { Spotlight } from '@/components/ui/spotlight'
 
 export function App() {
   return (
