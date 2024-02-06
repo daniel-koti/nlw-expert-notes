@@ -15,7 +15,7 @@ export function Notes() {
         />
       </form>
 
-      <div className="h-px w-full bg-indigo-300" />
+      <div className="h-px w-full bg-slate-600" />
 
       <div className="grid grid-cols-3 auto-rows-[250px] gap-6">
         <NewNoteCard />

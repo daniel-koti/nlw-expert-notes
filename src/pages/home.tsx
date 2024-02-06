@@ -20,7 +20,7 @@ export function Home() {
         </strong>
         <button
           onClick={handleNavigateToNotes}
-          className="relative w-full inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 animate-bounce"
+          className="relative w-full inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
         >
           <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#BEF264_0%,#393BB2_50%,#BEF264_100%)]" />
           <span className="inline-flex h-full font-semibold w-full cursor-pointer items-center justify-center rounded-full bg-slate-700 hover:bg-slate-800 hover:text-lime-400 transition-all px-3 py-1 text-base text-slate-50 backdrop-blur-3xl">
