@@ -1,7 +1,8 @@
 import { useNavigate } from 'react-router-dom'
-import logo from '@/assets/logo-nlw-experts.svg'
 import { DotBackgroundLayout } from '@/components/ui/dot-background-layout'
 import { Spotlight } from '@/components/ui/spotlight'
+
+import logo from '@/assets/logo-nlw-experts.svg'
 
 export function Home() {
   const navigate = useNavigate()

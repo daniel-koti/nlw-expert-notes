@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.5",
     "clsx": "^2.1.0",
+    "date-fns": "^3.3.1",
     "framer-motion": "^11.0.3",
+    "lucide-react": "^0.323.0",
     "mini-svg-data-uri": "^1.4.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
